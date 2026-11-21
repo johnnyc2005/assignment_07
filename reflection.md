@@ -1,4 +1,4 @@
-# Reflection
+i was suprised by how all 3 compinenets of the assognwmnet were wssentially displaying the same information. Lakeshores cards were the easoest to scrape but the hardest to scrape simotaneously. I learned a lot about how cosing allows us to achieve organizational holas, as the goals for which Soat city Coffee was trying to achieve. I was a little confused with how everyhting would come together at the end, but by yhe wnd of the assignment I understood the importance of it. In order to improve in the future, I will try my best to understand how compartmntlaizng things is useful for rhe attinment of an iverall goal as this can be useful in roganizations.
 
 ## Instructions
 
